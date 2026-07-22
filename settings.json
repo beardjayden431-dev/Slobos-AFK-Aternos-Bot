@@ -52,7 +52,7 @@
     "random-jump": {
       "enabled": true,
       "interval": 10000
-    }
+    },
   },
   "modules": {
     "avoidMobs": true,
@@ -76,7 +76,7 @@
       "connect": true,
       "disconnect": true,
       "chat": false
-    }
+    },
   },
   "chat": {
     "respond": true
